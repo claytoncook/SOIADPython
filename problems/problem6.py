@@ -8,5 +8,10 @@
 # odd digits (34+43=77). 
 # Write your code and return the answer.
 def problem6():
+    list_of_numbers = [1, 2, 3, 4, 5]
+    backwards = []
+    backwards = (list_of_numbers[::-1])
+    print(backwards)
+    
 
-	return ""
+problem6()
